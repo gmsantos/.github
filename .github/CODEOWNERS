@@ -1,0 +1,5 @@
+# Global owners
+*    @diegomarangoni
+
+# Mergeable configuration specific
+.github/mergeable.yml    @gmsantos
